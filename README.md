@@ -7,6 +7,8 @@ The objective is to generate actionable insights into workforce engagement, remu
 
 **Data Source:** Victorian Public Sector Commission (VPSC)
 
+![Data](image/labor.png)
+
 ---
 
 ## Objectives
@@ -32,6 +34,9 @@ A personal objective of this project was to strengthen my ability to:
 - Design **ETL workflows** for complex Excel-based data sources.  
 - Use **Python (pandas)** for structured data preparation and validation.  
 - Build dynamic, multi-page **Power BI dashboards** integrating survey and remuneration metrics.  
+
+![Data](image/labor1.png)
+
 
 ---
 
@@ -64,6 +69,8 @@ A personal objective of this project was to strengthen my ability to:
 **Disclaimer:** Salary and engagement scores may vary based on browser regional settings.  
 This report was designed for the **EN-AU** region. Please adjust your Power BI regional settings if necessary.
 
+![Data](image/labor2.png)
+
 ---
 
 ## About
@@ -86,6 +93,11 @@ data-preparation · data-modelling · workforce-analytics · remuneration-analys
   - `/3. Data Analysis/` – validation and statistical summaries  
   - `/4. Report Creation/` – Power BI report and presentation  
 
+![Data](image/labor7.png)
+
+
 ---
 
 ## Repository Structure
+![Data](image/labor3.png)
+
