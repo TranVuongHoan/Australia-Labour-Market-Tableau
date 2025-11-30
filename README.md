@@ -93,7 +93,7 @@ data-preparation · data-modelling · workforce-analytics · remuneration-analys
   - `/3. Data Analysis/` – validation and statistical summaries  
   - `/4. Report Creation/` – Power BI report and presentation  
 
-![Data](image/labor7.png)
+![Data](image/labor6.png)
 
 
 ---
